@@ -1,0 +1,1 @@
+mongoexport --host ds046677.mlab.com:46677 --db automock_telemetry --collection usage_stats --type=csv --fields InstanceId,ExecutionsCounter,ClassGenerationRequest,Timestemp   /username:admin  >> stats.csv
