@@ -1,1 +1,0 @@
-Visual Studio extension log:  C:\Users\Denis\AppData\Local\Microsoft\VisualStudio\15.0_e6c68dddRoslyn\ComponentModelCache\Microsoft.VisualStudio.Default.err
